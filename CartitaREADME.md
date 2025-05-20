@@ -6,8 +6,8 @@ que Felices 21 años miaumor. Aunque te haya conocido en lo que se dice nada, me
   <br>
     <a href="https://www.youtube.com/watch?v=YncpkTgPulU">
     <img src="https://github.com/TuCaballerito/FloresParaLaPrincesita/blob/main/File/blue-heart-a-sign-of-love-free-vector.png" alt="Corazones" width="200"></a>
+    <h3 align="center">Venga pulsa el corazoncito</h3>
   <br>
-  <h3 align="center">Venga pulsame</h3>
    Te amo miaumor
   <br>
 </h1>
